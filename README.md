@@ -19,7 +19,7 @@
 
 * [高艳菲 firm66](https://github.com/firm66)
 
-* [王夹倩 wjq66](https://github.com/wjq66)
+* [王佳倩 wjq66](https://github.com/wjq66)
 
 * [王梦洁 wmj604](https://github.com/wmj604)
 
