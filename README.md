@@ -7,6 +7,8 @@
 
 主要目的是为了大家方便查看各自的学习情况，有好的东西可以相互分享，习惯git的使用，代码托管，以后用处很大的。
 
+* [王柯佳 wkjsos](https://github.com/wkjsos)
+
 * [聂建 1316869355](https://github.com/1316869355)
 
 * [魏陈南 kinglisky](https://github.com/kinglisky)
