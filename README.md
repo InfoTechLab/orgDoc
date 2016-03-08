@@ -13,6 +13,10 @@
 
 * [高冰 momeakl](https://github.com/momeakl)
 
+* [周凯 YouYe](https://github.com/YouYe)
+
+* [刘星 liuxingroom](https://github.com/liuxingroom)
+
 * [焦琦玲 JQLing](https://github.com/JQLing)
 
 * [张杰 JayZangwill](https://github.com/JayZangwill )
