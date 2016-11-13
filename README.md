@@ -23,10 +23,38 @@
 
 * [张杰 JayZangwill](https://github.com/JayZangwill )
 
-* [高艳菲 firm66](https://github.com/firm66)
+* [高艳斐 firm66](https://github.com/firm66)
 
 * [王佳倩 wjq66](https://github.com/wjq66)
 
 * [王梦洁 wmj604](https://github.com/wmj604)
 
 * [李若南 987860690](https://github.com/987860690)
+
+* [孙旭昊 Smliences](https://github.com/Smliences)
+
+* [秦晓飞 Guiwawa](https://github.com/Guiwawa)
+
+* [朱琳琳 linlin1996](https://github.com/linlin1996)
+
+* [范心玲 lucky-F](https://github.com/lucky-F)
+
+* [王利 1531033170](https://github.com/1531033170)
+
+* [程斌 Lucky1556674733](https://github.com/Lucky1556674733)
+
+* [林赛男 linsainan1](https://github.com/linsainan1)
+
+* [林银成 linyincheng](https://github.com/linyincheng)
+
+* [闫肖 yx67](https://github.com/yx67)
+
+* [叶富豪 FuhaoYe](https://github.com/FuhaoYe)
+
+* [熊安娜 sunshineanna](https://github.com/sunshineanna)
+
+* [江震 jz1204967861](https://github.com/jz1204967861)
+
+* [闫田田 mrsyt](https://github.com/mrsyt)
+
+* [苏永珍 sueasue](https://github.com/sueasue)
