@@ -33,6 +33,8 @@
 
 * [孙旭昊 Smliences](https://github.com/Smliences)
 
+* [李盼盼 lipanpan123](https://github.com/lipanpan123)
+
 * [秦晓飞 Guiwawa](https://github.com/Guiwawa)
 
 * [朱琳琳 linlin1996](https://github.com/linlin1996)
@@ -58,3 +60,5 @@
 * [闫田田 mrsyt](https://github.com/mrsyt)
 
 * [苏永珍 sueasue](https://github.com/sueasue)
+
+* [刘文涛 MrLiuWT](https://github.com/MrLiuWT)
