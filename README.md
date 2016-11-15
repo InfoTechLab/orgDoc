@@ -37,6 +37,8 @@
 
 * [秦晓飞 Guiwawa](https://github.com/Guiwawa)
 
+* [王帅 wangshuaiws](https://github.com/wangshuaiws)
+
 * [朱琳琳 linlin1996](https://github.com/linlin1996)
 
 * [范心玲 lucky-F](https://github.com/lucky-F)
