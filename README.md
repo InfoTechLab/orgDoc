@@ -72,3 +72,5 @@
 * [张东伟 ZDW15031010257](https://github.com/ZDW15031010257)
 
 * [赵晨霞 wearehappy](https://github.com/wearehappy)
+
+* [豆肖杰 DouXiaoJie](https://github.com/DouXiaoJie)
