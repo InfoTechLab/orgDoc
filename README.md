@@ -68,3 +68,7 @@
 * [周正需 zhouzhengxu](https://github.com/zhouzhengxu)
 
 * [李兰兰 MaoriLan](https://github.com/MaoriLan)
+
+* [张东伟 ZDW15031010257](https://github.com/ZDW15031010257)
+
+* [赵晨霞 wearehappy](https://github.com/wearehappy)
