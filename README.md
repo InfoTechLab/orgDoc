@@ -75,6 +75,6 @@
 
 * [豆肖杰 DouXiaoJie](https://github.com/DouXiaoJie)
 
-* [王浩强danchaof](https://github.com/danchaof)
+* [王浩强 danchaof](https://github.com/danchaof)
 
-* [张鹏旭](https://github.com/Z02508102)
+* [张鹏旭 Z02508102](https://github.com/Z02508102)
