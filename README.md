@@ -78,3 +78,5 @@
 * [王浩强 danchaof](https://github.com/danchaof)
 
 * [张鹏旭 Z02508102](https://github.com/Z02508102)
+
+* [杨刚 yg1195759561](https://github.com/yg1195759561)
